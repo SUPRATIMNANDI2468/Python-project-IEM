@@ -1,0 +1,14 @@
+Name of the student : Pritam Ghosh 
+Class Roll of the student : 30 
+Stream of the student : ECE 
+Your Student ID is : ECE2230
+
+Marks obtained in Math is : 95 
+Marks obtained in Python is : 95 
+Marks obtained in Physics is : 98 
+Marks obtained in Chemistry is : 89 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 92 
+
+You have got 559 in total with 93%
+Outstanding Performance... You have passed the exam with grade A.

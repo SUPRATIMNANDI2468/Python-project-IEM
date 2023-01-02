@@ -1,0 +1,14 @@
+Name of the student : Souvik Dey 
+Class Roll of the student : 21 
+Stream of the student : ECE 
+Your Student ID is : ECE2221
+
+Marks obtained in Math is : 95 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 99 
+Marks obtained in Chemistry is : 91 
+Marks obtained in Biology is : 95 
+Marks obtained in English is : 88 
+
+You have got 558 in total with 93%
+Outstanding Performance... You have passed the exam with grade A.
